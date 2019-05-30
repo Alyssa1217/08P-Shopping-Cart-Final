@@ -1,0 +1,30 @@
+
+img{
+    width:100px;
+    height:100px;
+}
+
+.heading{
+    display:flex;
+    justify-content:space-around;  
+}
+
+.storeName {
+    display: flex;
+    justify-content: center;
+}
+
+.inputs { 
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttonDiv { 
+    display: flex;
+    justify-content: space-around;
+}
+.items {
+    display: flex;
+    justify-content: space-around;
+
+}
